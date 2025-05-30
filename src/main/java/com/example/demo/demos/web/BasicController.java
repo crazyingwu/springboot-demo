@@ -52,7 +52,7 @@ public class BasicController {
     public User user() {
         User user = new User();
         user.setName("theonefx");
-        user.setAge(666);
+        user.setAge(777);
 //        logger.error("test user error, name = {}", user.getName());
 //        logger.info("http response: {}", httpService.getExampleData());
         return user;
